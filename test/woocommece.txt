@@ -1,0 +1,1 @@
+[{"url":"51deal.vn","totalProduct":null},{"url":"vietnamnay.com"},{"url":"tieudungviet.vn","totalProduct":"1"},{"url":"ecvn.com","totalProduct":"368"},{"url":"muanhanh.vn","totalProduct":"2474"}]
